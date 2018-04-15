@@ -1,7 +1,7 @@
 #ifndef LABYRINTH_H
 #define LABYRINTH_H
 
-class Labyrinth
+class Labyrinth final
 {
 public:
   Labyrinth(int m, int n);
